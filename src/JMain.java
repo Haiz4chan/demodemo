@@ -22,7 +22,7 @@ public class JMain extends JFrame {
 	boolean dau = false;
 	double val = 0;
 	String Pheptinh = "";
-
+	khong tính
 	/**
 	 * Launch the application.
 	 */
