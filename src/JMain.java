@@ -14,4 +14,4 @@ import java.awt.event.ActionListener;
 
 public class JMain extends JFrame {
 
-khong co chi vsdvsdfdsvdsvsddv
+khong co chi 
