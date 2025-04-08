@@ -22,23 +22,4 @@ public class JMain extends JFrame {
 	boolean dau = false;
 	double val = 0;
 	String Pheptinh = "";
-
-	/**
-	 * Launch the application.
-	 */
-	public static void main(String[] args) {
-		EventQueue.invokeLater(new Runnable() {
-			public void run() {
-				try {
-					JMain frame = new JMain();
-					frame.setVisible(true);
-				} catch (Exception e) {
-					e.printStackTrace();
-				}
-			}yêrtet
-			adsrfafafae
-			đặhewiuhfaiwoeutg
-		});
-	}
-
-}
+//HAN CONG DOAH
