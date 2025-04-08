@@ -35,7 +35,7 @@ public class JMain extends JFrame {
 				} catch (Exception e) {
 					e.printStackTrace();
 				}
-			}
+			}yêrtet
 			adsrfafafae
 		});
 	}
